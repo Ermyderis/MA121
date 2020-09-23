@@ -2,4 +2,6 @@
     <string name="app_name">MA1</string>
     <string name="button">Button</string>
     <string name="hello">Hello</string>
+    <string name="text">Text</string>
+    <string name="color">Color</string>
 </resources>
