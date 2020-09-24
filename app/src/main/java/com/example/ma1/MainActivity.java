@@ -40,6 +40,8 @@ public class MainActivity extends AppCompatActivity {
                                        Random rnd = new Random();
                                        int randomcolor = Color.argb(255, rnd.nextInt(256), rnd.nextInt(256), rnd.nextInt(256));
                                        txt.setTextColor(randomcolor);
+
+                                       fgd
                                    }
 
                                }
